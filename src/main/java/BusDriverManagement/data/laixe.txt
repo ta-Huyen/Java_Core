@@ -1,0 +1,3 @@
+10000 - Ha nam - Hoi An - 54549 - A
+10001 - Giang - HaNoi - 15454 - D
+10002 - Nghia Lam - Thanh Hoa - 5454 - B
